@@ -1,0 +1,15 @@
+1	main entry
+2	main stairs
+3	courtyard entry
+4	math stairs
+5	science stairs
+6	music stairs
+7	student center S. Stairs
+8	B Student Center S. Stairs
+9	B Student Center N. Stairs
+10	B Main Stairs
+11	B Math Stairs
+12	B Science Stairs
+13	B Music Stairs
+14	Hurley
+15	Counseling
