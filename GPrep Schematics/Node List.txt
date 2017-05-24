@@ -14,4 +14,5 @@
 14	Hurley
 15	Counseling
 16  Art
-17  Student Center N. Stairs
+17  B. Band
+18  B. Gym Stairs
