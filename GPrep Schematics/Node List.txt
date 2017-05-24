@@ -13,3 +13,5 @@
 13	B Music Stairs
 14	Hurley
 15	Counseling
+16  Art
+17  Student Center N. Stairs
